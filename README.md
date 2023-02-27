@@ -19,7 +19,7 @@ This project is for the sole purpose of practice
 ## Overview
 
 ### Links
-- Live Site URL: [Add live site URL here](https://react-blog-omega-nine.vercel.app/)
+- Live Site URL: [https://react-blog-omega-nine.vercel.app/]()
 
 ## My process
 
